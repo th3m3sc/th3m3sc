@@ -1,7 +1,6 @@
 ```yaml
 name: m3sc
-located_in: Spain 
-current_job: Full Stack Developer
+located_in: Spain
 education:
   [
     "Self-Taught Hacker",
