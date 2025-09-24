@@ -18,6 +18,6 @@ fields_of_interests:
 
   
 currently_learning: ["Deeping my knowledge in Reverse Engineering"]
-hobbies: ["Surfing", "Crossfit", "Reading", "Movies"]
+hobbies: ["Surfing", "Crossfit", "GameDev", "Reading", "Movies"]
 ```
 <img src="https://tryhackme-badges.s3.amazonaws.com/m3sc.png"/>
