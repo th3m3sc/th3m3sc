@@ -16,7 +16,6 @@ fields_of_interests:
     "CTFs",
   ]
 
-  
 currently_learning: ["Deeping my knowledge in Reverse Engineering"]
 hobbies: ["Surfing", "Crossfit", "GameDev", "Reading", "Movies"]
 ```
